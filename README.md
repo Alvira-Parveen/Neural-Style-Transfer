@@ -33,15 +33,19 @@ Neural Style Transfer /
 
 1. Clone this repo or create a new folder :  
    bash
+   
    git clone <your-repo-link>
+   
    cd Neural\ Style\ Transfer
 
-2. Create & activate virtual environment (recommended):
+3. Create & activate virtual environment (recommended):
 python3 -m venv nst-env
+
 source nst-env/bin/activate   # Mac/Linux
+
 nst-env\Scripts\activate      # Windows
 
-3. Install dependencies :
+5. Install dependencies :
 pip install -r requirements.txt
 
 ---
