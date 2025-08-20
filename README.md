@@ -14,11 +14,16 @@ This project implements **Neural Style Transfer (NST)** with **TensorFlow + VGG1
 ---
 
 ## 📂 Project Structure  
-Neural Style Transfer/
+Neural Style Transfer /
+
 │── style_transfer.py # Main script
+
 │── content.jpg # content image
+
 │── style.jpg # style image
+
 │── requirements.txt # Dependencies
+
 │── README.md # Project info
 
 
