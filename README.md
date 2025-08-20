@@ -1,7 +1,13 @@
 # 🎨 Neural Style Transfer  
 
 Apply the artistic style of one image to another using **Deep Learning** 🧠✨.  
-This project implements **Neural Style Transfer (NST)** with **TensorFlow + VGG19**.  
+This project implements **Neural Style Transfer (NST)** with **TensorFlow + VGG19** , a fascinating deep learning technique that merges two images — the content image (e.g., your photo) and the style image (e.g., Van Gogh’s Starry Night) — to create a new, stylized artwork.
+
+Using the pre-trained VGG19 convolutional neural network, the model extracts :
+- Content features 📸 → the structure, shapes, and objects of the original photo
+- Style features 🎨 → the textures, colors, and brush strokes of the painting
+
+It demonstrates the power of AI in digital creativity, showcasing how neural networks can bridge the gap between technology and art. The result is an automated way to reimagine photographs as paintings, making it useful for artistic applications, design, and creative exploration. 🎨✨
 
 ---
 
